@@ -81,5 +81,14 @@
     "priceCurrency": "PHP",
     "lat": 16.336902, 
     "lng": 120.479773
+  },
+   {
+    "id": 215,
+    "name": "Poro Lighthouse, Poro La Union",
+    "imageUrl": "https://1.bp.blogspot.com/-SqgEMaW7jl4/WbfuU6zbA7I/AAAAAAAAILk/VadH0Qpv0BYOuhqO9wMtPgeeGoWJPpdKwCLcBGAs/s1600/Poro%2BPoint%2BLighthouse%2BSan%2BFernando%2BLa%2BUnion%2BRegion%2BI%2BPhilippines.webp",
+    "price": 0,
+    "priceCurrency": "PHP",
+    "lat": 16.6151682, 
+    "lng": 120.281635
   }
 ]
