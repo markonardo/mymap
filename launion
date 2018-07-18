@@ -91,4 +91,22 @@
     "lat": 16.6151682, 
     "lng": 120.281635
   }
+   {
+    "id": 206,
+    "name": "Baluarte Watch Tower",
+    "imageUrl": "https://c1.staticflickr.com/9/8035/7929118544_3313454a5a_b.jpg",
+    "price": 0,
+    "priceCurrency": "PHP",
+    "lat": 16.857002,
+    "lng": 120.373437
+  },
+   {
+    "id": 207,
+    "name": "St William the Hermit Cathedral, San Fernando City La Union",
+    "imageUrl": "https://lh5.googleusercontent.com/-ogJJ0tTI4wM/Wqj8tjayp8I/AAAAAAAAHpU/dHtn4oAHnL0uzMah-z_Q5ua1nV8T6x2OgCLIBGAYYCw/w641-h360-k-no/",
+    "price": 0,
+    "priceCurrency": "PHP",
+    "lat": 16.616024, 
+    "lng": 120.317904
+  },
 ]
